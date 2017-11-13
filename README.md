@@ -31,5 +31,6 @@
 - temp.dta [下载](https://github.com/Stata-Club/Sharing-Center-of-Stata-Club/blob/master/article/temp.dta?raw=true)
 - hangman [下载do文档](https://github.com/Stata-Club/Sharing-Center-of-Stata-Club/blob/master/article/hangman/hangman.do?raw=true) [下载数据集](https://github.com/Stata-Club/Sharing-Center-of-Stata-Club/blob/master/article/hangman/hangman_data.dta?raw=true)
 - blackjack [下载](https://github.com/Stata-Club/Sharing-Center-of-Stata-Club/blob/master/article/blackjack.ado?raw=true)
-- 财务数据批量下载程序 [下载](https://github.com/Stata-Club/Sharing-Center-of-Stata-Club/blob/master/article/Download notice.do?raw=true)
-- 上市公司公告批量下载程序 [下载](https://github.com/Stata-Club/Sharing-Center-of-Stata-Club/blob/master/article/Download chinafin data.do?raw=true)
+- 财务数据批量下载程序 [下载](https://github.com/Stata-Club/Sharing-Center-of-Stata-Club/blob/master/article/Download_notice.do?raw=true)
+- 上市公司公告批量下载程序 [下载](https://github.com/Stata-Club/Sharing-Center-of-Stata-Club/blob/master/article/Download_chinafin data.do?raw=true)
+- C刊目录源数据 [下载](https://github.com/Stata-Club/Sharing-Center-of-Stata-Club/blob/master/article/C刊目录源数据.txt?raw=true)
