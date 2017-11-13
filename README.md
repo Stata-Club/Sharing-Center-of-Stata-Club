@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## 简介
 
-You can use the [editor on GitHub](https://github.com/Stata-Club/data/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+爬虫俱乐部资源共享中心旨在向有志于(有需求)学习Stata的学习者们提供 **免费的** 、 **便捷的** Stata学习资源，它们中一部分来自于爬虫俱乐部的成员们共享的do文档以及dta数据集，一部分搜集自网络上的免费资源。我们提供两种下载使用方式(都非常地便捷)，同时，我们欢迎大家在 [本仓库](https://github.com/Stata-Club/data) 下向我们提出你的建议，我们会以最快速度更新您所需要的资源。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 两种下载方式
 
-### Markdown
+1. 在下方的资源列表中直接点击后方的 `下载` 超链接即可下载。如  
+    auto.dta [下载]()
+2. 在stata中使用copy命令直接拿取do文档，use命令直接拿取dta文档
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 没有所需的资源？
 
-```markdown
-Syntax highlighted code block
+欢迎大家在 [本仓库](https://github.com/Stata-Club/data) 下或者发送邮件至 `statatraining@163.com` 提出您的建议或所需要的资源，我们会以最快速度更新您所需要的资源。
 
-# Header 1
-## Header 2
-### Header 3
+### 联系我们
 
-- Bulleted
-- List
+欢迎关注爬虫俱乐部微信公众平台
 
-1. Numbered
-2. List
+欢迎访问爬虫俱乐部官方网站
 
-**Bold** and _Italic_ and `Code` text
+## 资源列表
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Stata-Club/data/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- temp.dta
+- hangman
+- blackjack
