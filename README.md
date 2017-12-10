@@ -35,6 +35,8 @@
 - 上市公司公告批量下载程序 [下载](https://github.com/Stata-Club/Sharing-Center-of-Stata-Club/blob/master/article/Download_chinafin data.do?raw=true)
 - C刊目录源数据 [下载](https://github.com/Stata-Club/Sharing-Center-of-Stata-Club/blob/master/article/C刊目录源数据.txt?raw=true)
 - 211大学目录 [下载](https://github.com/Stata-Club/Sharing-Center-of-Stata-Club/blob/master/article/211大学目录.txt?raw=true)
+- diagram_examples.rar [下载](https://github.com/Stata-Club/Sharing-Center-of-Stata-Club/blob/master/article/diagram_examples.rar?raw=true)
+- dot1.txt [下载](https://github.com/Stata-Club/Sharing-Center-of-Stata-Club/blob/master/article/dot1.txt?raw=true)
 
 
 ### Stata十八讲-人大陈传波
