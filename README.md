@@ -37,7 +37,7 @@
 - 211大学目录 [下载](https://github.com/Stata-Club/Sharing-Center-of-Stata-Club/blob/master/article/211大学目录.txt?raw=true)
 - diagram_examples.rar [下载](https://github.com/Stata-Club/Sharing-Center-of-Stata-Club/blob/master/article/diagram_examples.rar?raw=true)
 - dot1.txt [下载](https://github.com/Stata-Club/Sharing-Center-of-Stata-Club/blob/master/article/dot1.txt?raw=true)
-- txt2qr.ado [下载](https://github.com/Stata-Club/Sharing-Center-of-Stata-Club/blob/master/article/txt2qr.ado?raw=true)
+- txt2qr.ado [下载](https://github.com/Stata-Club/Sharing-Center-of-Stata-Club/blob/master/article/txt2qr/txt2qr.ado?raw=true)
 
 ### Stata十八讲-人大陈传波
 
