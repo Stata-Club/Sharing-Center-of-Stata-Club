@@ -1,3 +1,4 @@
 v 1
+d cnintraday Author: snowman
 
 p "TXT2QR: convert some text to qrcode"
