@@ -1,0 +1,24 @@
+-- ----------------------
+-- Create Sample table
+-- ----------------------
+CREATE TABLE Sample
+(
+  id       int        NULL ,
+  name     char(20)   NULL ,
+  gender   char(10)   NULL ,
+  chinese  int        NULL ,
+  math     int        NULL ,
+  english  int        NULL 
+);
+INSERT INTO Sample(id, name, gender, chinese, math, english)
+VALUES(01, 'Alan', 'ÄÐ', 87, 95, 86);
+INSERT INTO Sample(id, name, gender, chinese, math, english)
+VALUES(02, 'John', 'ÄÐ', 81, 90, 72);
+INSERT INTO Sample(id, name, gender, chinese, math, english)
+VALUES(03, 'Amy', 'Å®', 84, 82, 93);
+INSERT INTO Sample(id, name, gender, chinese, math, english)
+VALUES(04, 'Susan', 'Å®', 77, 63, 67);
+INSERT INTO Sample(id, name, gender, chinese, math, english)
+VALUES(05, 'Mike', 'ÄÐ', 62, 58, 49);
+INSERT INTO Sample(id, name, gender, chinese, math, english)
+VALUES(06, 'Lucy', 'Å®', 54, 76, 59);
