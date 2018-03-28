@@ -1,0 +1,23 @@
+-- ----------------------
+-- Create hobby table
+-- ----------------------
+CREATE TABLE hobby
+(
+  id       int        NULL ,
+  name     char(20)   NULL ,
+  gender   char(10)   NULL ,
+  myhobby    char(40)   NULL 
+  
+);
+INSERT INTO hobby(id, name, gender,myhobby)
+VALUES(01, 'Alan', 'ÄÐ', 'football');
+INSERT INTO hobby(id, name, gender,myhobby)
+VALUES(02, 'John', 'ÄÐ', 'basketball');
+INSERT INTO hobby(id, name,gender, myhobby)
+VALUES(03, 'Amy', 'Å®', 'swimming');
+INSERT INTO hobby(id, name, gender,myhobby)
+VALUES(04, 'Susan', 'Å®', 'running');
+INSERT INTO hobby(id, name, gender,myhobby)
+VALUES(05, 'Mike', 'ÄÐ', 'tennis');
+INSERT INTO hobby(id, name, gender,myhobby)
+VALUES(06, 'Lucy', 'Å®', 'jogging');
