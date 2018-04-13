@@ -1,0 +1,2608 @@
+{
+  "category": "quorum", 
+  "chamber": "h", 
+  "congress": 113, 
+  "date": "2014-01-07T18:52:00-05:00", 
+  "number": 1, 
+  "question": "Call of the House", 
+  "requires": "QUORUM", 
+  "result": "Passed", 
+  "result_text": "Passed", 
+  "session": "2014", 
+  "source_url": "http://clerk.house.gov/evs/2014/roll001.xml", 
+  "type": "Call of the House", 
+  "updated_at": "2014-09-11T18:17:52-04:00", 
+  "vote_id": "h1-113.2014", 
+  "votes": {
+    "Not Voting": [
+      {
+        "display_name": "Amodei", 
+        "id": "A000369", 
+        "party": "R", 
+        "state": "NV"
+      }, 
+      {
+        "display_name": "Andrews", 
+        "id": "A000210", 
+        "party": "D", 
+        "state": "NJ"
+      }, 
+      {
+        "display_name": "Bachus", 
+        "id": "B000013", 
+        "party": "R", 
+        "state": "AL"
+      }, 
+      {
+        "display_name": "Barber", 
+        "id": "B001279", 
+        "party": "D", 
+        "state": "AZ"
+      }, 
+      {
+        "display_name": "Benishek", 
+        "id": "B001271", 
+        "party": "R", 
+        "state": "MI"
+      }, 
+      {
+        "display_name": "Brady (PA)", 
+        "id": "B001227", 
+        "party": "D", 
+        "state": "PA"
+      }, 
+      {
+        "display_name": "Braley (IA)", 
+        "id": "B001259", 
+        "party": "D", 
+        "state": "IA"
+      }, 
+      {
+        "display_name": "Broun (GA)", 
+        "id": "B001262", 
+        "party": "R", 
+        "state": "GA"
+      }, 
+      {
+        "display_name": "Brown (FL)", 
+        "id": "B000911", 
+        "party": "D", 
+        "state": "FL"
+      }, 
+      {
+        "display_name": "Bucshon", 
+        "id": "B001275", 
+        "party": "R", 
+        "state": "IN"
+      }, 
+      {
+        "display_name": "Butterfield", 
+        "id": "B001251", 
+        "party": "D", 
+        "state": "NC"
+      }, 
+      {
+        "display_name": "Cantor", 
+        "id": "C001046", 
+        "party": "R", 
+        "state": "VA"
+      }, 
+      {
+        "display_name": "Carson (IN)", 
+        "id": "C001072", 
+        "party": "D", 
+        "state": "IN"
+      }, 
+      {
+        "display_name": "Carter", 
+        "id": "C001051", 
+        "party": "R", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Cassidy", 
+        "id": "C001075", 
+        "party": "R", 
+        "state": "LA"
+      }, 
+      {
+        "display_name": "Clarke (NY)", 
+        "id": "C001067", 
+        "party": "D", 
+        "state": "NY"
+      }, 
+      {
+        "display_name": "Cleaver", 
+        "id": "C001061", 
+        "party": "D", 
+        "state": "MO"
+      }, 
+      {
+        "display_name": "Clyburn", 
+        "id": "C000537", 
+        "party": "D", 
+        "state": "SC"
+      }, 
+      {
+        "display_name": "Collins (NY)", 
+        "id": "C001092", 
+        "party": "R", 
+        "state": "NY"
+      }, 
+      {
+        "display_name": "Conaway", 
+        "id": "C001062", 
+        "party": "R", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Conyers", 
+        "id": "C000714", 
+        "party": "D", 
+        "state": "MI"
+      }, 
+      {
+        "display_name": "Cook", 
+        "id": "C001094", 
+        "party": "R", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Costa", 
+        "id": "C001059", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Cramer", 
+        "id": "C001096", 
+        "party": "R", 
+        "state": "ND"
+      }, 
+      {
+        "display_name": "Crenshaw", 
+        "id": "C001045", 
+        "party": "R", 
+        "state": "FL"
+      }, 
+      {
+        "display_name": "Crowley", 
+        "id": "C001038", 
+        "party": "D", 
+        "state": "NY"
+      }, 
+      {
+        "display_name": "Cummings", 
+        "id": "C000984", 
+        "party": "D", 
+        "state": "MD"
+      }, 
+      {
+        "display_name": "Davis (CA)", 
+        "id": "D000598", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "DeGette", 
+        "id": "D000197", 
+        "party": "D", 
+        "state": "CO"
+      }, 
+      {
+        "display_name": "DeLauro", 
+        "id": "D000216", 
+        "party": "D", 
+        "state": "CT"
+      }, 
+      {
+        "display_name": "Denham", 
+        "id": "D000612", 
+        "party": "R", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "DesJarlais", 
+        "id": "D000616", 
+        "party": "R", 
+        "state": "TN"
+      }, 
+      {
+        "display_name": "Doyle", 
+        "id": "D000482", 
+        "party": "D", 
+        "state": "PA"
+      }, 
+      {
+        "display_name": "Duffy", 
+        "id": "D000614", 
+        "party": "R", 
+        "state": "WI"
+      }, 
+      {
+        "display_name": "Ellmers", 
+        "id": "E000291", 
+        "party": "R", 
+        "state": "NC"
+      }, 
+      {
+        "display_name": "Enyart", 
+        "id": "E000292", 
+        "party": "D", 
+        "state": "IL"
+      }, 
+      {
+        "display_name": "Fincher", 
+        "id": "F000458", 
+        "party": "R", 
+        "state": "TN"
+      }, 
+      {
+        "display_name": "Forbes", 
+        "id": "F000445", 
+        "party": "R", 
+        "state": "VA"
+      }, 
+      {
+        "display_name": "Fortenberry", 
+        "id": "F000449", 
+        "party": "R", 
+        "state": "NE"
+      }, 
+      {
+        "display_name": "Foster", 
+        "id": "F000454", 
+        "party": "D", 
+        "state": "IL"
+      }, 
+      {
+        "display_name": "Frankel (FL)", 
+        "id": "F000462", 
+        "party": "D", 
+        "state": "FL"
+      }, 
+      {
+        "display_name": "Fudge", 
+        "id": "F000455", 
+        "party": "D", 
+        "state": "OH"
+      }, 
+      {
+        "display_name": "Gabbard", 
+        "id": "G000571", 
+        "party": "D", 
+        "state": "HI"
+      }, 
+      {
+        "display_name": "Gibson", 
+        "id": "G000564", 
+        "party": "R", 
+        "state": "NY"
+      }, 
+      {
+        "display_name": "Gosar", 
+        "id": "G000565", 
+        "party": "R", 
+        "state": "AZ"
+      }, 
+      {
+        "display_name": "Granger", 
+        "id": "G000377", 
+        "party": "R", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Grayson", 
+        "id": "G000556", 
+        "party": "D", 
+        "state": "FL"
+      }, 
+      {
+        "display_name": "Grijalva", 
+        "id": "G000551", 
+        "party": "D", 
+        "state": "AZ"
+      }, 
+      {
+        "display_name": "Guthrie", 
+        "id": "G000558", 
+        "party": "R", 
+        "state": "KY"
+      }, 
+      {
+        "display_name": "Guti\u00e9rrez", 
+        "id": "G000535", 
+        "party": "D", 
+        "state": "IL"
+      }, 
+      {
+        "display_name": "Harris", 
+        "id": "H001052", 
+        "party": "R", 
+        "state": "MD"
+      }, 
+      {
+        "display_name": "Heck (NV)", 
+        "id": "H001055", 
+        "party": "R", 
+        "state": "NV"
+      }, 
+      {
+        "display_name": "Herrera Beutler", 
+        "id": "H001056", 
+        "party": "R", 
+        "state": "WA"
+      }, 
+      {
+        "display_name": "Higgins", 
+        "id": "H001038", 
+        "party": "D", 
+        "state": "NY"
+      }, 
+      {
+        "display_name": "Hudson", 
+        "id": "H001067", 
+        "party": "R", 
+        "state": "NC"
+      }, 
+      {
+        "display_name": "Huffman", 
+        "id": "H001068", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Huizenga (MI)", 
+        "id": "H001058", 
+        "party": "R", 
+        "state": "MI"
+      }, 
+      {
+        "display_name": "Hultgren", 
+        "id": "H001059", 
+        "party": "R", 
+        "state": "IL"
+      }, 
+      {
+        "display_name": "Issa", 
+        "id": "I000056", 
+        "party": "R", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Johnson (GA)", 
+        "id": "J000288", 
+        "party": "D", 
+        "state": "GA"
+      }, 
+      {
+        "display_name": "Jones", 
+        "id": "J000255", 
+        "party": "R", 
+        "state": "NC"
+      }, 
+      {
+        "display_name": "Kaptur", 
+        "id": "K000009", 
+        "party": "D", 
+        "state": "OH"
+      }, 
+      {
+        "display_name": "Keating", 
+        "id": "K000375", 
+        "party": "D", 
+        "state": "MA"
+      }, 
+      {
+        "display_name": "Kingston", 
+        "id": "K000220", 
+        "party": "R", 
+        "state": "GA"
+      }, 
+      {
+        "display_name": "Kuster", 
+        "id": "K000382", 
+        "party": "D", 
+        "state": "NH"
+      }, 
+      {
+        "display_name": "LaMalfa", 
+        "id": "L000578", 
+        "party": "R", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Larsen (WA)", 
+        "id": "L000560", 
+        "party": "D", 
+        "state": "WA"
+      }, 
+      {
+        "display_name": "Lee (CA)", 
+        "id": "L000551", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Lipinski", 
+        "id": "L000563", 
+        "party": "D", 
+        "state": "IL"
+      }, 
+      {
+        "display_name": "Lowey", 
+        "id": "L000480", 
+        "party": "D", 
+        "state": "NY"
+      }, 
+      {
+        "display_name": "Lynch", 
+        "id": "L000562", 
+        "party": "D", 
+        "state": "MA"
+      }, 
+      {
+        "display_name": "Maloney, Carolyn", 
+        "id": "M000087", 
+        "party": "D", 
+        "state": "NY"
+      }, 
+      {
+        "display_name": "Marchant", 
+        "id": "M001158", 
+        "party": "R", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "McCarthy (NY)", 
+        "id": "M000309", 
+        "party": "D", 
+        "state": "NY"
+      }, 
+      {
+        "display_name": "McIntyre", 
+        "id": "M000485", 
+        "party": "D", 
+        "state": "NC"
+      }, 
+      {
+        "display_name": "Meeks", 
+        "id": "M001137", 
+        "party": "D", 
+        "state": "NY"
+      }, 
+      {
+        "display_name": "Meng", 
+        "id": "M001188", 
+        "party": "D", 
+        "state": "NY"
+      }, 
+      {
+        "display_name": "Miller (FL)", 
+        "id": "M001144", 
+        "party": "R", 
+        "state": "FL"
+      }, 
+      {
+        "display_name": "Miller, Gary", 
+        "id": "M001139", 
+        "party": "R", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Miller, George", 
+        "id": "M000725", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Moran", 
+        "id": "M000933", 
+        "party": "D", 
+        "state": "VA"
+      }, 
+      {
+        "display_name": "Murphy (FL)", 
+        "id": "M001191", 
+        "party": "D", 
+        "state": "FL"
+      }, 
+      {
+        "display_name": "Nadler", 
+        "id": "N000002", 
+        "party": "D", 
+        "state": "NY"
+      }, 
+      {
+        "display_name": "Neal", 
+        "id": "N000015", 
+        "party": "D", 
+        "state": "MA"
+      }, 
+      {
+        "display_name": "Nunnelee", 
+        "id": "N000186", 
+        "party": "R", 
+        "state": "MS"
+      }, 
+      {
+        "display_name": "Pelosi", 
+        "id": "P000197", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Pingree (ME)", 
+        "id": "P000597", 
+        "party": "D", 
+        "state": "ME"
+      }, 
+      {
+        "display_name": "Reed", 
+        "id": "R000585", 
+        "party": "R", 
+        "state": "NY"
+      }, 
+      {
+        "display_name": "Ribble", 
+        "id": "R000587", 
+        "party": "R", 
+        "state": "WI"
+      }, 
+      {
+        "display_name": "Rice (SC)", 
+        "id": "R000597", 
+        "party": "R", 
+        "state": "SC"
+      }, 
+      {
+        "display_name": "Richmond", 
+        "id": "R000588", 
+        "party": "D", 
+        "state": "LA"
+      }, 
+      {
+        "display_name": "Rohrabacher", 
+        "id": "R000409", 
+        "party": "R", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Rokita", 
+        "id": "R000592", 
+        "party": "R", 
+        "state": "IN"
+      }, 
+      {
+        "display_name": "Ros-Lehtinen", 
+        "id": "R000435", 
+        "party": "R", 
+        "state": "FL"
+      }, 
+      {
+        "display_name": "Ruppersberger", 
+        "id": "R000576", 
+        "party": "D", 
+        "state": "MD"
+      }, 
+      {
+        "display_name": "Rush", 
+        "id": "R000515", 
+        "party": "D", 
+        "state": "IL"
+      }, 
+      {
+        "display_name": "Ryan (OH)", 
+        "id": "R000577", 
+        "party": "D", 
+        "state": "OH"
+      }, 
+      {
+        "display_name": "S\u00e1nchez, Linda T.", 
+        "id": "S001156", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Schakowsky", 
+        "id": "S001145", 
+        "party": "D", 
+        "state": "IL"
+      }, 
+      {
+        "display_name": "Schwartz", 
+        "id": "S001162", 
+        "party": "D", 
+        "state": "PA"
+      }, 
+      {
+        "display_name": "Slaughter", 
+        "id": "S000480", 
+        "party": "D", 
+        "state": "NY"
+      }, 
+      {
+        "display_name": "Smith (WA)", 
+        "id": "S000510", 
+        "party": "D", 
+        "state": "WA"
+      }, 
+      {
+        "display_name": "Stivers", 
+        "id": "S001187", 
+        "party": "R", 
+        "state": "OH"
+      }, 
+      {
+        "display_name": "Stockman", 
+        "id": "S000937", 
+        "party": "R", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Terry", 
+        "id": "T000459", 
+        "party": "R", 
+        "state": "NE"
+      }, 
+      {
+        "display_name": "Tiberi", 
+        "id": "T000462", 
+        "party": "R", 
+        "state": "OH"
+      }, 
+      {
+        "display_name": "Titus", 
+        "id": "T000468", 
+        "party": "D", 
+        "state": "NV"
+      }, 
+      {
+        "display_name": "Van Hollen", 
+        "id": "V000128", 
+        "party": "D", 
+        "state": "MD"
+      }, 
+      {
+        "display_name": "Veasey", 
+        "id": "V000131", 
+        "party": "D", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Wagner", 
+        "id": "W000812", 
+        "party": "R", 
+        "state": "MO"
+      }, 
+      {
+        "display_name": "Walorski", 
+        "id": "W000813", 
+        "party": "R", 
+        "state": "IN"
+      }, 
+      {
+        "display_name": "Webster (FL)", 
+        "id": "W000806", 
+        "party": "R", 
+        "state": "FL"
+      }, 
+      {
+        "display_name": "Westmoreland", 
+        "id": "W000796", 
+        "party": "R", 
+        "state": "GA"
+      }, 
+      {
+        "display_name": "Wilson (FL)", 
+        "id": "W000808", 
+        "party": "D", 
+        "state": "FL"
+      }, 
+      {
+        "display_name": "Yoder", 
+        "id": "Y000063", 
+        "party": "R", 
+        "state": "KS"
+      }
+    ], 
+    "Present": [
+      {
+        "display_name": "Aderholt", 
+        "id": "A000055", 
+        "party": "R", 
+        "state": "AL"
+      }, 
+      {
+        "display_name": "Amash", 
+        "id": "A000367", 
+        "party": "R", 
+        "state": "MI"
+      }, 
+      {
+        "display_name": "Bachmann", 
+        "id": "B001256", 
+        "party": "R", 
+        "state": "MN"
+      }, 
+      {
+        "display_name": "Barletta", 
+        "id": "B001269", 
+        "party": "R", 
+        "state": "PA"
+      }, 
+      {
+        "display_name": "Barr", 
+        "id": "B001282", 
+        "party": "R", 
+        "state": "KY"
+      }, 
+      {
+        "display_name": "Barrow (GA)", 
+        "id": "B001252", 
+        "party": "D", 
+        "state": "GA"
+      }, 
+      {
+        "display_name": "Barton", 
+        "id": "B000213", 
+        "party": "R", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Bass", 
+        "id": "B001270", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Beatty", 
+        "id": "B001281", 
+        "party": "D", 
+        "state": "OH"
+      }, 
+      {
+        "display_name": "Becerra", 
+        "id": "B000287", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Bentivolio", 
+        "id": "B001280", 
+        "party": "R", 
+        "state": "MI"
+      }, 
+      {
+        "display_name": "Bera (CA)", 
+        "id": "B001287", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Bilirakis", 
+        "id": "B001257", 
+        "party": "R", 
+        "state": "FL"
+      }, 
+      {
+        "display_name": "Bishop (GA)", 
+        "id": "B000490", 
+        "party": "D", 
+        "state": "GA"
+      }, 
+      {
+        "display_name": "Bishop (NY)", 
+        "id": "B001242", 
+        "party": "D", 
+        "state": "NY"
+      }, 
+      {
+        "display_name": "Bishop (UT)", 
+        "id": "B001250", 
+        "party": "R", 
+        "state": "UT"
+      }, 
+      {
+        "display_name": "Black", 
+        "id": "B001273", 
+        "party": "R", 
+        "state": "TN"
+      }, 
+      {
+        "display_name": "Blackburn", 
+        "id": "B001243", 
+        "party": "R", 
+        "state": "TN"
+      }, 
+      {
+        "display_name": "Blumenauer", 
+        "id": "B000574", 
+        "party": "D", 
+        "state": "OR"
+      }, 
+      {
+        "display_name": "Bonamici", 
+        "id": "B001278", 
+        "party": "D", 
+        "state": "OR"
+      }, 
+      {
+        "display_name": "Boustany", 
+        "id": "B001255", 
+        "party": "R", 
+        "state": "LA"
+      }, 
+      {
+        "display_name": "Brady (TX)", 
+        "id": "B000755", 
+        "party": "R", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Bridenstine", 
+        "id": "B001283", 
+        "party": "R", 
+        "state": "OK"
+      }, 
+      {
+        "display_name": "Brooks (AL)", 
+        "id": "B001274", 
+        "party": "R", 
+        "state": "AL"
+      }, 
+      {
+        "display_name": "Brooks (IN)", 
+        "id": "B001284", 
+        "party": "R", 
+        "state": "IN"
+      }, 
+      {
+        "display_name": "Brownley (CA)", 
+        "id": "B001285", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Buchanan", 
+        "id": "B001260", 
+        "party": "R", 
+        "state": "FL"
+      }, 
+      {
+        "display_name": "Burgess", 
+        "id": "B001248", 
+        "party": "R", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Bustos", 
+        "id": "B001286", 
+        "party": "D", 
+        "state": "IL"
+      }, 
+      {
+        "display_name": "Calvert", 
+        "id": "C000059", 
+        "party": "R", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Camp", 
+        "id": "C000071", 
+        "party": "R", 
+        "state": "MI"
+      }, 
+      {
+        "display_name": "Campbell", 
+        "id": "C001064", 
+        "party": "R", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Capito", 
+        "id": "C001047", 
+        "party": "R", 
+        "state": "WV"
+      }, 
+      {
+        "display_name": "Capps", 
+        "id": "C001036", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Capuano", 
+        "id": "C001037", 
+        "party": "D", 
+        "state": "MA"
+      }, 
+      {
+        "display_name": "C\u00e1rdenas", 
+        "id": "C001097", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Carney", 
+        "id": "C001083", 
+        "party": "D", 
+        "state": "DE"
+      }, 
+      {
+        "display_name": "Cartwright", 
+        "id": "C001090", 
+        "party": "D", 
+        "state": "PA"
+      }, 
+      {
+        "display_name": "Castor (FL)", 
+        "id": "C001066", 
+        "party": "D", 
+        "state": "FL"
+      }, 
+      {
+        "display_name": "Castro (TX)", 
+        "id": "C001091", 
+        "party": "D", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Chabot", 
+        "id": "C000266", 
+        "party": "R", 
+        "state": "OH"
+      }, 
+      {
+        "display_name": "Chaffetz", 
+        "id": "C001076", 
+        "party": "R", 
+        "state": "UT"
+      }, 
+      {
+        "display_name": "Chu", 
+        "id": "C001080", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Cicilline", 
+        "id": "C001084", 
+        "party": "D", 
+        "state": "RI"
+      }, 
+      {
+        "display_name": "Clark (MA)", 
+        "id": "C001101", 
+        "party": "D", 
+        "state": "MA"
+      }, 
+      {
+        "display_name": "Clay", 
+        "id": "C001049", 
+        "party": "D", 
+        "state": "MO"
+      }, 
+      {
+        "display_name": "Coble", 
+        "id": "C000556", 
+        "party": "R", 
+        "state": "NC"
+      }, 
+      {
+        "display_name": "Coffman", 
+        "id": "C001077", 
+        "party": "R", 
+        "state": "CO"
+      }, 
+      {
+        "display_name": "Cohen", 
+        "id": "C001068", 
+        "party": "D", 
+        "state": "TN"
+      }, 
+      {
+        "display_name": "Cole", 
+        "id": "C001053", 
+        "party": "R", 
+        "state": "OK"
+      }, 
+      {
+        "display_name": "Collins (GA)", 
+        "id": "C001093", 
+        "party": "R", 
+        "state": "GA"
+      }, 
+      {
+        "display_name": "Connolly", 
+        "id": "C001078", 
+        "party": "D", 
+        "state": "VA"
+      }, 
+      {
+        "display_name": "Cooper", 
+        "id": "C000754", 
+        "party": "D", 
+        "state": "TN"
+      }, 
+      {
+        "display_name": "Cotton", 
+        "id": "C001095", 
+        "party": "R", 
+        "state": "AR"
+      }, 
+      {
+        "display_name": "Courtney", 
+        "id": "C001069", 
+        "party": "D", 
+        "state": "CT"
+      }, 
+      {
+        "display_name": "Crawford", 
+        "id": "C001087", 
+        "party": "R", 
+        "state": "AR"
+      }, 
+      {
+        "display_name": "Cuellar", 
+        "id": "C001063", 
+        "party": "D", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Culberson", 
+        "id": "C001048", 
+        "party": "R", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Daines", 
+        "id": "D000618", 
+        "party": "R", 
+        "state": "MT"
+      }, 
+      {
+        "display_name": "Davis, Danny", 
+        "id": "D000096", 
+        "party": "D", 
+        "state": "IL"
+      }, 
+      {
+        "display_name": "Davis, Rodney", 
+        "id": "D000619", 
+        "party": "R", 
+        "state": "IL"
+      }, 
+      {
+        "display_name": "DeFazio", 
+        "id": "D000191", 
+        "party": "D", 
+        "state": "OR"
+      }, 
+      {
+        "display_name": "Delaney", 
+        "id": "D000620", 
+        "party": "D", 
+        "state": "MD"
+      }, 
+      {
+        "display_name": "DelBene", 
+        "id": "D000617", 
+        "party": "D", 
+        "state": "WA"
+      }, 
+      {
+        "display_name": "Dent", 
+        "id": "D000604", 
+        "party": "R", 
+        "state": "PA"
+      }, 
+      {
+        "display_name": "DeSantis", 
+        "id": "D000621", 
+        "party": "R", 
+        "state": "FL"
+      }, 
+      {
+        "display_name": "Deutch", 
+        "id": "D000610", 
+        "party": "D", 
+        "state": "FL"
+      }, 
+      {
+        "display_name": "Diaz-Balart", 
+        "id": "D000600", 
+        "party": "R", 
+        "state": "FL"
+      }, 
+      {
+        "display_name": "Dingell", 
+        "id": "D000355", 
+        "party": "D", 
+        "state": "MI"
+      }, 
+      {
+        "display_name": "Doggett", 
+        "id": "D000399", 
+        "party": "D", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Duckworth", 
+        "id": "D000622", 
+        "party": "D", 
+        "state": "IL"
+      }, 
+      {
+        "display_name": "Duncan (SC)", 
+        "id": "D000615", 
+        "party": "R", 
+        "state": "SC"
+      }, 
+      {
+        "display_name": "Duncan (TN)", 
+        "id": "D000533", 
+        "party": "R", 
+        "state": "TN"
+      }, 
+      {
+        "display_name": "Edwards", 
+        "id": "E000290", 
+        "party": "D", 
+        "state": "MD"
+      }, 
+      {
+        "display_name": "Ellison", 
+        "id": "E000288", 
+        "party": "D", 
+        "state": "MN"
+      }, 
+      {
+        "display_name": "Engel", 
+        "id": "E000179", 
+        "party": "D", 
+        "state": "NY"
+      }, 
+      {
+        "display_name": "Eshoo", 
+        "id": "E000215", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Esty", 
+        "id": "E000293", 
+        "party": "D", 
+        "state": "CT"
+      }, 
+      {
+        "display_name": "Farenthold", 
+        "id": "F000460", 
+        "party": "R", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Farr", 
+        "id": "F000030", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Fattah", 
+        "id": "F000043", 
+        "party": "D", 
+        "state": "PA"
+      }, 
+      {
+        "display_name": "Fitzpatrick", 
+        "id": "F000451", 
+        "party": "R", 
+        "state": "PA"
+      }, 
+      {
+        "display_name": "Fleischmann", 
+        "id": "F000459", 
+        "party": "R", 
+        "state": "TN"
+      }, 
+      {
+        "display_name": "Fleming", 
+        "id": "F000456", 
+        "party": "R", 
+        "state": "LA"
+      }, 
+      {
+        "display_name": "Flores", 
+        "id": "F000461", 
+        "party": "R", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Foxx", 
+        "id": "F000450", 
+        "party": "R", 
+        "state": "NC"
+      }, 
+      {
+        "display_name": "Franks (AZ)", 
+        "id": "F000448", 
+        "party": "R", 
+        "state": "AZ"
+      }, 
+      {
+        "display_name": "Frelinghuysen", 
+        "id": "F000372", 
+        "party": "R", 
+        "state": "NJ"
+      }, 
+      {
+        "display_name": "Gallego", 
+        "id": "G000572", 
+        "party": "D", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Garamendi", 
+        "id": "G000559", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Garcia", 
+        "id": "G000573", 
+        "party": "D", 
+        "state": "FL"
+      }, 
+      {
+        "display_name": "Gardner", 
+        "id": "G000562", 
+        "party": "R", 
+        "state": "CO"
+      }, 
+      {
+        "display_name": "Garrett", 
+        "id": "G000548", 
+        "party": "R", 
+        "state": "NJ"
+      }, 
+      {
+        "display_name": "Gerlach", 
+        "id": "G000549", 
+        "party": "R", 
+        "state": "PA"
+      }, 
+      {
+        "display_name": "Gibbs", 
+        "id": "G000563", 
+        "party": "R", 
+        "state": "OH"
+      }, 
+      {
+        "display_name": "Gingrey (GA)", 
+        "id": "G000550", 
+        "party": "R", 
+        "state": "GA"
+      }, 
+      {
+        "display_name": "Gohmert", 
+        "id": "G000552", 
+        "party": "R", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Goodlatte", 
+        "id": "G000289", 
+        "party": "R", 
+        "state": "VA"
+      }, 
+      {
+        "display_name": "Gowdy", 
+        "id": "G000566", 
+        "party": "R", 
+        "state": "SC"
+      }, 
+      {
+        "display_name": "Graves (GA)", 
+        "id": "G000560", 
+        "party": "R", 
+        "state": "GA"
+      }, 
+      {
+        "display_name": "Graves (MO)", 
+        "id": "G000546", 
+        "party": "R", 
+        "state": "MO"
+      }, 
+      {
+        "display_name": "Green, Al", 
+        "id": "G000553", 
+        "party": "D", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Green, Gene", 
+        "id": "G000410", 
+        "party": "D", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Griffin (AR)", 
+        "id": "G000567", 
+        "party": "R", 
+        "state": "AR"
+      }, 
+      {
+        "display_name": "Griffith (VA)", 
+        "id": "G000568", 
+        "party": "R", 
+        "state": "VA"
+      }, 
+      {
+        "display_name": "Grimm", 
+        "id": "G000569", 
+        "party": "R", 
+        "state": "NY"
+      }, 
+      {
+        "display_name": "Hahn", 
+        "id": "H001063", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Hall", 
+        "id": "H000067", 
+        "party": "R", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Hanabusa", 
+        "id": "H001050", 
+        "party": "D", 
+        "state": "HI"
+      }, 
+      {
+        "display_name": "Hanna", 
+        "id": "H001051", 
+        "party": "R", 
+        "state": "NY"
+      }, 
+      {
+        "display_name": "Harper", 
+        "id": "H001045", 
+        "party": "R", 
+        "state": "MS"
+      }, 
+      {
+        "display_name": "Hartzler", 
+        "id": "H001053", 
+        "party": "R", 
+        "state": "MO"
+      }, 
+      {
+        "display_name": "Hastings (FL)", 
+        "id": "H000324", 
+        "party": "D", 
+        "state": "FL"
+      }, 
+      {
+        "display_name": "Hastings (WA)", 
+        "id": "H000329", 
+        "party": "R", 
+        "state": "WA"
+      }, 
+      {
+        "display_name": "Heck (WA)", 
+        "id": "H001064", 
+        "party": "D", 
+        "state": "WA"
+      }, 
+      {
+        "display_name": "Hensarling", 
+        "id": "H001036", 
+        "party": "R", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Himes", 
+        "id": "H001047", 
+        "party": "D", 
+        "state": "CT"
+      }, 
+      {
+        "display_name": "Hinojosa", 
+        "id": "H000636", 
+        "party": "D", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Holding", 
+        "id": "H001065", 
+        "party": "R", 
+        "state": "NC"
+      }, 
+      {
+        "display_name": "Holt", 
+        "id": "H001032", 
+        "party": "D", 
+        "state": "NJ"
+      }, 
+      {
+        "display_name": "Honda", 
+        "id": "H001034", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Horsford", 
+        "id": "H001066", 
+        "party": "D", 
+        "state": "NV"
+      }, 
+      {
+        "display_name": "Hoyer", 
+        "id": "H000874", 
+        "party": "D", 
+        "state": "MD"
+      }, 
+      {
+        "display_name": "Huelskamp", 
+        "id": "H001057", 
+        "party": "R", 
+        "state": "KS"
+      }, 
+      {
+        "display_name": "Hunter", 
+        "id": "H001048", 
+        "party": "R", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Hurt", 
+        "id": "H001060", 
+        "party": "R", 
+        "state": "VA"
+      }, 
+      {
+        "display_name": "Israel", 
+        "id": "I000057", 
+        "party": "D", 
+        "state": "NY"
+      }, 
+      {
+        "display_name": "Jackson Lee", 
+        "id": "J000032", 
+        "party": "D", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Jeffries", 
+        "id": "J000294", 
+        "party": "D", 
+        "state": "NY"
+      }, 
+      {
+        "display_name": "Jenkins", 
+        "id": "J000290", 
+        "party": "R", 
+        "state": "KS"
+      }, 
+      {
+        "display_name": "Johnson (OH)", 
+        "id": "J000292", 
+        "party": "R", 
+        "state": "OH"
+      }, 
+      {
+        "display_name": "Johnson, E. B.", 
+        "id": "J000126", 
+        "party": "D", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Johnson, Sam", 
+        "id": "J000174", 
+        "party": "R", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Jordan", 
+        "id": "J000289", 
+        "party": "R", 
+        "state": "OH"
+      }, 
+      {
+        "display_name": "Joyce", 
+        "id": "J000295", 
+        "party": "R", 
+        "state": "OH"
+      }, 
+      {
+        "display_name": "Kelly (IL)", 
+        "id": "K000385", 
+        "party": "D", 
+        "state": "IL"
+      }, 
+      {
+        "display_name": "Kelly (PA)", 
+        "id": "K000376", 
+        "party": "R", 
+        "state": "PA"
+      }, 
+      {
+        "display_name": "Kennedy", 
+        "id": "K000379", 
+        "party": "D", 
+        "state": "MA"
+      }, 
+      {
+        "display_name": "Kildee", 
+        "id": "K000380", 
+        "party": "D", 
+        "state": "MI"
+      }, 
+      {
+        "display_name": "Kilmer", 
+        "id": "K000381", 
+        "party": "D", 
+        "state": "WA"
+      }, 
+      {
+        "display_name": "Kind", 
+        "id": "K000188", 
+        "party": "D", 
+        "state": "WI"
+      }, 
+      {
+        "display_name": "King (IA)", 
+        "id": "K000362", 
+        "party": "R", 
+        "state": "IA"
+      }, 
+      {
+        "display_name": "King (NY)", 
+        "id": "K000210", 
+        "party": "R", 
+        "state": "NY"
+      }, 
+      {
+        "display_name": "Kinzinger (IL)", 
+        "id": "K000378", 
+        "party": "R", 
+        "state": "IL"
+      }, 
+      {
+        "display_name": "Kirkpatrick", 
+        "id": "K000368", 
+        "party": "D", 
+        "state": "AZ"
+      }, 
+      {
+        "display_name": "Kline", 
+        "id": "K000363", 
+        "party": "R", 
+        "state": "MN"
+      }, 
+      {
+        "display_name": "Labrador", 
+        "id": "L000573", 
+        "party": "R", 
+        "state": "ID"
+      }, 
+      {
+        "display_name": "Lamborn", 
+        "id": "L000564", 
+        "party": "R", 
+        "state": "CO"
+      }, 
+      {
+        "display_name": "Lance", 
+        "id": "L000567", 
+        "party": "R", 
+        "state": "NJ"
+      }, 
+      {
+        "display_name": "Langevin", 
+        "id": "L000559", 
+        "party": "D", 
+        "state": "RI"
+      }, 
+      {
+        "display_name": "Lankford", 
+        "id": "L000575", 
+        "party": "R", 
+        "state": "OK"
+      }, 
+      {
+        "display_name": "Larson (CT)", 
+        "id": "L000557", 
+        "party": "D", 
+        "state": "CT"
+      }, 
+      {
+        "display_name": "Latham", 
+        "id": "L000111", 
+        "party": "R", 
+        "state": "IA"
+      }, 
+      {
+        "display_name": "Latta", 
+        "id": "L000566", 
+        "party": "R", 
+        "state": "OH"
+      }, 
+      {
+        "display_name": "Levin", 
+        "id": "L000263", 
+        "party": "D", 
+        "state": "MI"
+      }, 
+      {
+        "display_name": "Lewis", 
+        "id": "L000287", 
+        "party": "D", 
+        "state": "GA"
+      }, 
+      {
+        "display_name": "LoBiondo", 
+        "id": "L000554", 
+        "party": "R", 
+        "state": "NJ"
+      }, 
+      {
+        "display_name": "Loebsack", 
+        "id": "L000565", 
+        "party": "D", 
+        "state": "IA"
+      }, 
+      {
+        "display_name": "Lofgren", 
+        "id": "L000397", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Long", 
+        "id": "L000576", 
+        "party": "R", 
+        "state": "MO"
+      }, 
+      {
+        "display_name": "Lowenthal", 
+        "id": "L000579", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Lucas", 
+        "id": "L000491", 
+        "party": "R", 
+        "state": "OK"
+      }, 
+      {
+        "display_name": "Luetkemeyer", 
+        "id": "L000569", 
+        "party": "R", 
+        "state": "MO"
+      }, 
+      {
+        "display_name": "Lujan Grisham (NM)", 
+        "id": "L000580", 
+        "party": "D", 
+        "state": "NM"
+      }, 
+      {
+        "display_name": "Luj\u00e1n, Ben Ray (NM)", 
+        "id": "L000570", 
+        "party": "D", 
+        "state": "NM"
+      }, 
+      {
+        "display_name": "Lummis", 
+        "id": "L000571", 
+        "party": "R", 
+        "state": "WY"
+      }, 
+      {
+        "display_name": "Maffei", 
+        "id": "M001171", 
+        "party": "D", 
+        "state": "NY"
+      }, 
+      {
+        "display_name": "Maloney, Sean", 
+        "id": "M001185", 
+        "party": "D", 
+        "state": "NY"
+      }, 
+      {
+        "display_name": "Marino", 
+        "id": "M001179", 
+        "party": "R", 
+        "state": "PA"
+      }, 
+      {
+        "display_name": "Massie", 
+        "id": "M001184", 
+        "party": "R", 
+        "state": "KY"
+      }, 
+      {
+        "display_name": "Matheson", 
+        "id": "M001142", 
+        "party": "D", 
+        "state": "UT"
+      }, 
+      {
+        "display_name": "Matsui", 
+        "id": "M001163", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "McAllister", 
+        "id": "M001192", 
+        "party": "R", 
+        "state": "LA"
+      }, 
+      {
+        "display_name": "McCarthy (CA)", 
+        "id": "M001165", 
+        "party": "R", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "McCaul", 
+        "id": "M001157", 
+        "party": "R", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "McClintock", 
+        "id": "M001177", 
+        "party": "R", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "McCollum", 
+        "id": "M001143", 
+        "party": "D", 
+        "state": "MN"
+      }, 
+      {
+        "display_name": "McDermott", 
+        "id": "M000404", 
+        "party": "D", 
+        "state": "WA"
+      }, 
+      {
+        "display_name": "McGovern", 
+        "id": "M000312", 
+        "party": "D", 
+        "state": "MA"
+      }, 
+      {
+        "display_name": "McHenry", 
+        "id": "M001156", 
+        "party": "R", 
+        "state": "NC"
+      }, 
+      {
+        "display_name": "McKeon", 
+        "id": "M000508", 
+        "party": "R", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "McKinley", 
+        "id": "M001180", 
+        "party": "R", 
+        "state": "WV"
+      }, 
+      {
+        "display_name": "McMorris Rodgers", 
+        "id": "M001159", 
+        "party": "R", 
+        "state": "WA"
+      }, 
+      {
+        "display_name": "McNerney", 
+        "id": "M001166", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Meadows", 
+        "id": "M001187", 
+        "party": "R", 
+        "state": "NC"
+      }, 
+      {
+        "display_name": "Meehan", 
+        "id": "M001181", 
+        "party": "R", 
+        "state": "PA"
+      }, 
+      {
+        "display_name": "Messer", 
+        "id": "M001189", 
+        "party": "R", 
+        "state": "IN"
+      }, 
+      {
+        "display_name": "Mica", 
+        "id": "M000689", 
+        "party": "R", 
+        "state": "FL"
+      }, 
+      {
+        "display_name": "Michaud", 
+        "id": "M001149", 
+        "party": "D", 
+        "state": "ME"
+      }, 
+      {
+        "display_name": "Miller (MI)", 
+        "id": "M001150", 
+        "party": "R", 
+        "state": "MI"
+      }, 
+      {
+        "display_name": "Moore", 
+        "id": "M001160", 
+        "party": "D", 
+        "state": "WI"
+      }, 
+      {
+        "display_name": "Mullin", 
+        "id": "M001190", 
+        "party": "R", 
+        "state": "OK"
+      }, 
+      {
+        "display_name": "Mulvaney", 
+        "id": "M001182", 
+        "party": "R", 
+        "state": "SC"
+      }, 
+      {
+        "display_name": "Murphy (PA)", 
+        "id": "M001151", 
+        "party": "R", 
+        "state": "PA"
+      }, 
+      {
+        "display_name": "Napolitano", 
+        "id": "N000179", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Negrete McLeod", 
+        "id": "N000187", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Neugebauer", 
+        "id": "N000182", 
+        "party": "R", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Noem", 
+        "id": "N000184", 
+        "party": "R", 
+        "state": "SD"
+      }, 
+      {
+        "display_name": "Nolan", 
+        "id": "N000127", 
+        "party": "D", 
+        "state": "MN"
+      }, 
+      {
+        "display_name": "Nugent", 
+        "id": "N000185", 
+        "party": "R", 
+        "state": "FL"
+      }, 
+      {
+        "display_name": "Nunes", 
+        "id": "N000181", 
+        "party": "R", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "O'Rourke", 
+        "id": "O000170", 
+        "party": "D", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Olson", 
+        "id": "O000168", 
+        "party": "R", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Owens", 
+        "id": "O000169", 
+        "party": "D", 
+        "state": "NY"
+      }, 
+      {
+        "display_name": "Palazzo", 
+        "id": "P000601", 
+        "party": "R", 
+        "state": "MS"
+      }, 
+      {
+        "display_name": "Pallone", 
+        "id": "P000034", 
+        "party": "D", 
+        "state": "NJ"
+      }, 
+      {
+        "display_name": "Pascrell", 
+        "id": "P000096", 
+        "party": "D", 
+        "state": "NJ"
+      }, 
+      {
+        "display_name": "Pastor (AZ)", 
+        "id": "P000099", 
+        "party": "D", 
+        "state": "AZ"
+      }, 
+      {
+        "display_name": "Paulsen", 
+        "id": "P000594", 
+        "party": "R", 
+        "state": "MN"
+      }, 
+      {
+        "display_name": "Payne", 
+        "id": "P000604", 
+        "party": "D", 
+        "state": "NJ"
+      }, 
+      {
+        "display_name": "Pearce", 
+        "id": "P000588", 
+        "party": "R", 
+        "state": "NM"
+      }, 
+      {
+        "display_name": "Perlmutter", 
+        "id": "P000593", 
+        "party": "D", 
+        "state": "CO"
+      }, 
+      {
+        "display_name": "Perry", 
+        "id": "P000605", 
+        "party": "R", 
+        "state": "PA"
+      }, 
+      {
+        "display_name": "Peters (CA)", 
+        "id": "P000608", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Peters (MI)", 
+        "id": "P000595", 
+        "party": "D", 
+        "state": "MI"
+      }, 
+      {
+        "display_name": "Peterson", 
+        "id": "P000258", 
+        "party": "D", 
+        "state": "MN"
+      }, 
+      {
+        "display_name": "Petri", 
+        "id": "P000265", 
+        "party": "R", 
+        "state": "WI"
+      }, 
+      {
+        "display_name": "Pittenger", 
+        "id": "P000606", 
+        "party": "R", 
+        "state": "NC"
+      }, 
+      {
+        "display_name": "Pitts", 
+        "id": "P000373", 
+        "party": "R", 
+        "state": "PA"
+      }, 
+      {
+        "display_name": "Pocan", 
+        "id": "P000607", 
+        "party": "D", 
+        "state": "WI"
+      }, 
+      {
+        "display_name": "Poe (TX)", 
+        "id": "P000592", 
+        "party": "R", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Polis", 
+        "id": "P000598", 
+        "party": "D", 
+        "state": "CO"
+      }, 
+      {
+        "display_name": "Pompeo", 
+        "id": "P000602", 
+        "party": "R", 
+        "state": "KS"
+      }, 
+      {
+        "display_name": "Posey", 
+        "id": "P000599", 
+        "party": "R", 
+        "state": "FL"
+      }, 
+      {
+        "display_name": "Price (GA)", 
+        "id": "P000591", 
+        "party": "R", 
+        "state": "GA"
+      }, 
+      {
+        "display_name": "Price (NC)", 
+        "id": "P000523", 
+        "party": "D", 
+        "state": "NC"
+      }, 
+      {
+        "display_name": "Quigley", 
+        "id": "Q000023", 
+        "party": "D", 
+        "state": "IL"
+      }, 
+      {
+        "display_name": "Radel", 
+        "id": "R000596", 
+        "party": "R", 
+        "state": "FL"
+      }, 
+      {
+        "display_name": "Rahall", 
+        "id": "R000011", 
+        "party": "D", 
+        "state": "WV"
+      }, 
+      {
+        "display_name": "Rangel", 
+        "id": "R000053", 
+        "party": "D", 
+        "state": "NY"
+      }, 
+      {
+        "display_name": "Reichert", 
+        "id": "R000578", 
+        "party": "R", 
+        "state": "WA"
+      }, 
+      {
+        "display_name": "Renacci", 
+        "id": "R000586", 
+        "party": "R", 
+        "state": "OH"
+      }, 
+      {
+        "display_name": "Rigell", 
+        "id": "R000589", 
+        "party": "R", 
+        "state": "VA"
+      }, 
+      {
+        "display_name": "Roby", 
+        "id": "R000591", 
+        "party": "R", 
+        "state": "AL"
+      }, 
+      {
+        "display_name": "Roe (TN)", 
+        "id": "R000582", 
+        "party": "R", 
+        "state": "TN"
+      }, 
+      {
+        "display_name": "Rogers (AL)", 
+        "id": "R000575", 
+        "party": "R", 
+        "state": "AL"
+      }, 
+      {
+        "display_name": "Rogers (KY)", 
+        "id": "R000395", 
+        "party": "R", 
+        "state": "KY"
+      }, 
+      {
+        "display_name": "Rogers (MI)", 
+        "id": "R000572", 
+        "party": "R", 
+        "state": "MI"
+      }, 
+      {
+        "display_name": "Rooney", 
+        "id": "R000583", 
+        "party": "R", 
+        "state": "FL"
+      }, 
+      {
+        "display_name": "Roskam", 
+        "id": "R000580", 
+        "party": "R", 
+        "state": "IL"
+      }, 
+      {
+        "display_name": "Ross", 
+        "id": "R000593", 
+        "party": "R", 
+        "state": "FL"
+      }, 
+      {
+        "display_name": "Rothfus", 
+        "id": "R000598", 
+        "party": "R", 
+        "state": "PA"
+      }, 
+      {
+        "display_name": "Roybal-Allard", 
+        "id": "R000486", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Royce", 
+        "id": "R000487", 
+        "party": "R", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Ruiz", 
+        "id": "R000599", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Runyan", 
+        "id": "R000594", 
+        "party": "R", 
+        "state": "NJ"
+      }, 
+      {
+        "display_name": "Ryan (WI)", 
+        "id": "R000570", 
+        "party": "R", 
+        "state": "WI"
+      }, 
+      {
+        "display_name": "Salmon", 
+        "id": "S000018", 
+        "party": "R", 
+        "state": "AZ"
+      }, 
+      {
+        "display_name": "Sanchez, Loretta", 
+        "id": "S000030", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Sanford", 
+        "id": "S000051", 
+        "party": "R", 
+        "state": "SC"
+      }, 
+      {
+        "display_name": "Sarbanes", 
+        "id": "S001168", 
+        "party": "D", 
+        "state": "MD"
+      }, 
+      {
+        "display_name": "Scalise", 
+        "id": "S001176", 
+        "party": "R", 
+        "state": "LA"
+      }, 
+      {
+        "display_name": "Schiff", 
+        "id": "S001150", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Schneider", 
+        "id": "S001190", 
+        "party": "D", 
+        "state": "IL"
+      }, 
+      {
+        "display_name": "Schock", 
+        "id": "S001179", 
+        "party": "R", 
+        "state": "IL"
+      }, 
+      {
+        "display_name": "Schrader", 
+        "id": "S001180", 
+        "party": "D", 
+        "state": "OR"
+      }, 
+      {
+        "display_name": "Schweikert", 
+        "id": "S001183", 
+        "party": "R", 
+        "state": "AZ"
+      }, 
+      {
+        "display_name": "Scott (VA)", 
+        "id": "S000185", 
+        "party": "D", 
+        "state": "VA"
+      }, 
+      {
+        "display_name": "Scott, Austin", 
+        "id": "S001189", 
+        "party": "R", 
+        "state": "GA"
+      }, 
+      {
+        "display_name": "Scott, David", 
+        "id": "S001157", 
+        "party": "D", 
+        "state": "GA"
+      }, 
+      {
+        "display_name": "Sensenbrenner", 
+        "id": "S000244", 
+        "party": "R", 
+        "state": "WI"
+      }, 
+      {
+        "display_name": "Serrano", 
+        "id": "S000248", 
+        "party": "D", 
+        "state": "NY"
+      }, 
+      {
+        "display_name": "Sessions", 
+        "id": "S000250", 
+        "party": "R", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Sewell (AL)", 
+        "id": "S001185", 
+        "party": "D", 
+        "state": "AL"
+      }, 
+      {
+        "display_name": "Shea-Porter", 
+        "id": "S001170", 
+        "party": "D", 
+        "state": "NH"
+      }, 
+      {
+        "display_name": "Sherman", 
+        "id": "S000344", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Shimkus", 
+        "id": "S000364", 
+        "party": "R", 
+        "state": "IL"
+      }, 
+      {
+        "display_name": "Shuster", 
+        "id": "S001154", 
+        "party": "R", 
+        "state": "PA"
+      }, 
+      {
+        "display_name": "Simpson", 
+        "id": "S001148", 
+        "party": "R", 
+        "state": "ID"
+      }, 
+      {
+        "display_name": "Sinema", 
+        "id": "S001191", 
+        "party": "D", 
+        "state": "AZ"
+      }, 
+      {
+        "display_name": "Sires", 
+        "id": "S001165", 
+        "party": "D", 
+        "state": "NJ"
+      }, 
+      {
+        "display_name": "Smith (MO)", 
+        "id": "S001195", 
+        "party": "R", 
+        "state": "MO"
+      }, 
+      {
+        "display_name": "Smith (NE)", 
+        "id": "S001172", 
+        "party": "R", 
+        "state": "NE"
+      }, 
+      {
+        "display_name": "Smith (NJ)", 
+        "id": "S000522", 
+        "party": "R", 
+        "state": "NJ"
+      }, 
+      {
+        "display_name": "Smith (TX)", 
+        "id": "S000583", 
+        "party": "R", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Southerland", 
+        "id": "S001186", 
+        "party": "R", 
+        "state": "FL"
+      }, 
+      {
+        "display_name": "Speier", 
+        "id": "S001175", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Stewart", 
+        "id": "S001192", 
+        "party": "R", 
+        "state": "UT"
+      }, 
+      {
+        "display_name": "Stutzman", 
+        "id": "S001188", 
+        "party": "R", 
+        "state": "IN"
+      }, 
+      {
+        "display_name": "Swalwell (CA)", 
+        "id": "S001193", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Takano", 
+        "id": "T000472", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Thompson (CA)", 
+        "id": "T000460", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Thompson (MS)", 
+        "id": "T000193", 
+        "party": "D", 
+        "state": "MS"
+      }, 
+      {
+        "display_name": "Thompson (PA)", 
+        "id": "T000467", 
+        "party": "R", 
+        "state": "PA"
+      }, 
+      {
+        "display_name": "Thornberry", 
+        "id": "T000238", 
+        "party": "R", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Tierney", 
+        "id": "T000266", 
+        "party": "D", 
+        "state": "MA"
+      }, 
+      {
+        "display_name": "Tipton", 
+        "id": "T000470", 
+        "party": "R", 
+        "state": "CO"
+      }, 
+      {
+        "display_name": "Tonko", 
+        "id": "T000469", 
+        "party": "D", 
+        "state": "NY"
+      }, 
+      {
+        "display_name": "Tsongas", 
+        "id": "T000465", 
+        "party": "D", 
+        "state": "MA"
+      }, 
+      {
+        "display_name": "Turner", 
+        "id": "T000463", 
+        "party": "R", 
+        "state": "OH"
+      }, 
+      {
+        "display_name": "Upton", 
+        "id": "U000031", 
+        "party": "R", 
+        "state": "MI"
+      }, 
+      {
+        "display_name": "Valadao", 
+        "id": "V000129", 
+        "party": "R", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Vargas", 
+        "id": "V000130", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Vela", 
+        "id": "V000132", 
+        "party": "D", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Vel\u00e1zquez", 
+        "id": "V000081", 
+        "party": "D", 
+        "state": "NY"
+      }, 
+      {
+        "display_name": "Visclosky", 
+        "id": "V000108", 
+        "party": "D", 
+        "state": "IN"
+      }, 
+      {
+        "display_name": "Walberg", 
+        "id": "W000798", 
+        "party": "R", 
+        "state": "MI"
+      }, 
+      {
+        "display_name": "Walden", 
+        "id": "W000791", 
+        "party": "R", 
+        "state": "OR"
+      }, 
+      {
+        "display_name": "Walz", 
+        "id": "W000799", 
+        "party": "D", 
+        "state": "MN"
+      }, 
+      {
+        "display_name": "Wasserman Schultz", 
+        "id": "W000797", 
+        "party": "D", 
+        "state": "FL"
+      }, 
+      {
+        "display_name": "Waters", 
+        "id": "W000187", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Waxman", 
+        "id": "W000215", 
+        "party": "D", 
+        "state": "CA"
+      }, 
+      {
+        "display_name": "Weber (TX)", 
+        "id": "W000814", 
+        "party": "R", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Welch", 
+        "id": "W000800", 
+        "party": "D", 
+        "state": "VT"
+      }, 
+      {
+        "display_name": "Wenstrup", 
+        "id": "W000815", 
+        "party": "R", 
+        "state": "OH"
+      }, 
+      {
+        "display_name": "Whitfield", 
+        "id": "W000413", 
+        "party": "R", 
+        "state": "KY"
+      }, 
+      {
+        "display_name": "Williams", 
+        "id": "W000816", 
+        "party": "R", 
+        "state": "TX"
+      }, 
+      {
+        "display_name": "Wilson (SC)", 
+        "id": "W000795", 
+        "party": "R", 
+        "state": "SC"
+      }, 
+      {
+        "display_name": "Wittman", 
+        "id": "W000804", 
+        "party": "R", 
+        "state": "VA"
+      }, 
+      {
+        "display_name": "Wolf", 
+        "id": "W000672", 
+        "party": "R", 
+        "state": "VA"
+      }, 
+      {
+        "display_name": "Womack", 
+        "id": "W000809", 
+        "party": "R", 
+        "state": "AR"
+      }, 
+      {
+        "display_name": "Woodall", 
+        "id": "W000810", 
+        "party": "R", 
+        "state": "GA"
+      }, 
+      {
+        "display_name": "Yarmuth", 
+        "id": "Y000062", 
+        "party": "D", 
+        "state": "KY"
+      }, 
+      {
+        "display_name": "Yoho", 
+        "id": "Y000065", 
+        "party": "R", 
+        "state": "FL"
+      }, 
+      {
+        "display_name": "Young (AK)", 
+        "id": "Y000033", 
+        "party": "R", 
+        "state": "AK"
+      }, 
+      {
+        "display_name": "Young (IN)", 
+        "id": "Y000064", 
+        "party": "R", 
+        "state": "IN"
+      }
+    ]
+  }
+}
